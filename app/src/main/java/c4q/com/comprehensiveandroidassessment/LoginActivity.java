@@ -67,9 +67,9 @@ public class LoginActivity extends AppCompatActivity {
                     intent.putExtra("currentUser", user.getText().toString());
                     startActivity(intent);
 
-                    Intent intent1 = new Intent(LoginActivity.this, BreedsActivity.class);
-                    intent.putExtra("Key", SHARED_PREFS_KEY);
-                    startActivity(intent1);
+//                    Intent intent1 = new Intent(LoginActivity.this, BreedsActivity.class);
+//                    intent.putExtra("Key", SHARED_PREFS_KEY);
+//                    startActivity(intent1);
                 }
 
             }

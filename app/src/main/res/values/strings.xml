@@ -5,4 +5,9 @@
     <string name="please_signin">Please Signin</string>
     <string name="submit">Submit</string>
     <string name="hello">Hello</string>
+    <string name="terrier">Terrier</string>
+    <string name="spaniel">Spaniel</string>
+    <string name="retriever">Retriever</string>
+    <string name="poodle">Poodle</string>
+    <string name="poodler">Poodler</string>
 </resources>
